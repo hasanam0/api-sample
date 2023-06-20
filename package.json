@@ -1,0 +1,21 @@
+{
+  "name": "api-test",
+  "version": "1.0.0",
+  "description": "Sample project for testing API calls using Jasmine and Node Fetch",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine sample-project/spec/sampleTest.spec.js"
+  },
+  "keywords": [
+    "api",
+    "test",
+    "jasmine",
+    "node-fetch"
+  ],
+  "author": "Hasan Okanovic",
+  "license": "Atlantbh",
+  "devDependencies": {
+    "jasmine": "^3.10.0",
+    "node-fetch": "^2.6.9"
+  }
+}
